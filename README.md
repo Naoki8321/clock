@@ -1,6 +1,6 @@
-# clock
+# timer
 
-> clock display
+> timer running
 
 ## Build Setup
 
